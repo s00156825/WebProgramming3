@@ -1,10 +1,15 @@
 <html>
+<head>
+<title>Git Test Page</title>
+</head>
+
 <body>
 <ul>
 <li>cat</li>
 <li>dog</li>
 <li>horse</li>
 <li>donkey</li>
+<li>duck</li>
 </ul>
 </body>
 </html>
