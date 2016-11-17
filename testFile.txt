@@ -10,6 +10,7 @@
 <li>horse</li>
 <li>donkey</li>
 <li>duck</li>
+<li>snake</li>
 </ul>
 </body>
 </html>
