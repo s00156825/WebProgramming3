@@ -11,6 +11,7 @@
 <li>donkey</li>
 <li>duck</li>
 <li>snake</li>
+<li>squirrel</li>
 </ul>
 </body>
 </html>
